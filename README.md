@@ -34,9 +34,9 @@ This list reflects my primary areas of focus and expertise, particularly in the 
 *   🌲 **ChromaDB, FAISS** Working with vector embeddings for search and RAG.
 
 **Tools & Platforms:**
-*   ☁️ ** Azure ML/Google Colab ** Experience with cloud ML services.
+*   ☁️ **Azure ML/Google Colab** Experience with cloud ML services.
 *   🐙 **Git & GitHub:** Version control and collaborative development.
-*   🐳 ** Docker ** Containerization for deployment.
+*   🐳 **Docker** Containerization for deployment.
 
 **Web Technologies**
 *   🌐 **HTML, CSS, JavaScript:** Proficient in front-end development
